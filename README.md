@@ -1,7 +1,7 @@
 # Hello, I'm Daniel 👋
 <div align="center"> 
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EE22&width=435&lines=JS+%7C+TS+%7C+Python;+Yandex+Lyceum+student+;+Beginner+developer)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EE22&width=435&lines=JS+%7C+TS+%7C+Python+Developer;+Yandex+Lyceum+student+;+Beginner+developer)](https://git.io/typing-svg)
 </div>
 
 ## 🚀 About me
